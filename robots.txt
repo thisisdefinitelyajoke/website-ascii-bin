@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://keycap-asciivist.com/sitemap.xml
+Host: https://keycap-asciivist.com
